@@ -1,5 +1,5 @@
 <h1> Bienvenido a Platzi Commerse</h1>
-<h2> es un sitio desarrollado para la practica del curso de platzi sobre tiendas virtuales  </h2>
+<h2> Es un sitio desarrollado para la practica del curso de platzi sobre tiendas virtuales  </h2>
 <p> En el profundizamos temas como lo es: </p>
    <ol>
         <li>Instalacion de wordpress  </li>
